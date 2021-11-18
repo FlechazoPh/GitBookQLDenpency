@@ -1,6 +1,6 @@
 # Jekyll GitBook
 
-Make Jelly site have a GitBook look!
+文档地址 [GitBook](https://flechazoph.github.io/GitBookQLDenpency/)
 
 ## Demo
 
